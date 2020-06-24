@@ -1,7 +1,9 @@
 # luminify_app
 
 Projeto de aplicativo para prototipo da LUMINIFY - StartupOn - FIAP. 
+
 Na rais se encontra projeto Flutter
+
 Para codigo do arduino, veja arduino.c
 
 
